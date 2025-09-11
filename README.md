@@ -1,5 +1,5 @@
 # leopold29
-cette espace est dedié au cours de GSI
+cet espace est dedié au cours de GSI
 [**M2 GSI**, Humanités numeriques, **univ.paris8**](https://humanites-numeriques.univ-paris8.fr/-Master-GSI-)
 
 
